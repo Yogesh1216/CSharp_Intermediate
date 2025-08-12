@@ -1,0 +1,7 @@
+﻿namespace LearningConstructor
+{
+    class Orders
+    {
+
+    }
+}
