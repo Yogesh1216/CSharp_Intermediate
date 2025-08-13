@@ -12,7 +12,7 @@
             var person = new Person();
             person.SetBirthdate(new DateTime(1990, 1, 1));
             Console.WriteLine(person.GetBirthdate());
-
+            
         }
     }
 }
