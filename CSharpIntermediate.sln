@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_CreatingClass", "ConsoleApp1\1_CreatingClass.csproj", "{E0D25461-AAD3-4B2E-A84D-E6D51AFC9EAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_CreatingClass", "ConsoleApp1\1_CreatingClass.csproj", "{E0D25461-AAD3-4B2E-A84D-E6D51AFC9EAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_LearningConstructor", "LearningConstructor\2_LearningConstructor.csproj", "{EB4DF9FB-3CE4-46B9-9C6B-CEC7ACD46DE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_LearningConstructor", "LearningConstructor\2_LearningConstructor.csproj", "{EB4DF9FB-3CE4-46B9-9C6B-CEC7ACD46DE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_LearningMethods", "LearningMethods\3_LearningMethods.csproj", "{6E62A2BC-BA23-40EF-B049-8D691E4F2F87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_LearningMethods", "LearningMethods\3_LearningMethods.csproj", "{6E62A2BC-BA23-40EF-B049-8D691E4F2F87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_LearningFields", "LearningFields\4_LearningFields.csproj", "{2A0B5684-AACA-42B7-810F-1FACAFF3FF9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_LearningFields", "LearningFields\4_LearningFields.csproj", "{2A0B5684-AACA-42B7-810F-1FACAFF3FF9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_AccessModifiers", "5_AccessModifiers\5_AccessModifiers.csproj", "{7527CA8D-653C-4AB9-ACC0-1325084086E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6_Properties", "6_Properties\6_Properties.csproj", "{73687E7D-499F-4174-89FD-944009A823C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{2A0B5684-AACA-42B7-810F-1FACAFF3FF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A0B5684-AACA-42B7-810F-1FACAFF3FF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A0B5684-AACA-42B7-810F-1FACAFF3FF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7527CA8D-653C-4AB9-ACC0-1325084086E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7527CA8D-653C-4AB9-ACC0-1325084086E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7527CA8D-653C-4AB9-ACC0-1325084086E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7527CA8D-653C-4AB9-ACC0-1325084086E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73687E7D-499F-4174-89FD-944009A823C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73687E7D-499F-4174-89FD-944009A823C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73687E7D-499F-4174-89FD-944009A823C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73687E7D-499F-4174-89FD-944009A823C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
